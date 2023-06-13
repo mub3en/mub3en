@@ -3,7 +3,7 @@
 
 <p align="center">
     <i>
-      I am working in IT since 2016 in various roles. I started my career as Technical Deployment Specialist. <br> 
+      I have been working in IT since 2016 in various roles. I started my career as Technical Deployment Specialist. <br> 
       Couple of years after working I finally changed my career to be DataBase Administrator. <br>
     </i><br>
     <a href="https://www.linkedin.com/in/hafizalimubeen">
