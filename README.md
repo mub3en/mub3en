@@ -11,14 +11,18 @@
     </a>
 </p>
 
-### Career as a DBA
-![TSQL](https://img.shields.io/badge/tsql-black?style=for-the-badge&logo=tsql)
+### Professional Career as a DBA
+![TSQL](https://img.shields.io/badge/tsql-black?style=for-the-badge&logo=microsoftsqlserver)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=microsoftsqlserver)
 ![SSIS](https://img.shields.io/badge/SQL%20Server%20Integration%20Services-black?style=for-the-badge&logo=microsoftsqlserver)
 ![SSIS](https://img.shields.io/badge/SQL%20Server%20Reporting%20Services-black?style=for-the-badge&logo=microsoftsqlserver)
+![SQLAgent](https://img.shields.io/badge/SQL%20Server%20Agent-black?style=for-the-badge&logo=microsoftsqlserver)
+![SSMS](https://img.shields.io/badge/SQL%20Server%20Managemnt%20Studio-black?style=for-the-badge&logo=microsoftsqlserver)
+![SqlProfiler](https://img.shields.io/badge/SQL%20Profiler-black?style=for-the-badge&logo=microsoftsqlserver)
 - Proficient in database administration tasks such as database installation, configuration, performance tuning, backup and recovery, and security management.<br>
 - Skilled in writing complex SQL queries, stored procedures, and triggers to extract, transform, and load data.   
 - Experience in database design principles, including normalization, indexing, and query optimization
+- Assited with Database migrations, Server migrations, Database engine upgrade/patching. 
 <ul>
   <li>
     The MSSQL versions I have worked on: 
@@ -34,6 +38,7 @@
     </details>
   </li>
 </ul>
+
 
 <br> </br>
 ### Cloud Stack
