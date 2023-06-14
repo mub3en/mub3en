@@ -11,13 +11,13 @@
 </p>
 
 ### Professional Career as a DBA
-![TSQL](https://img.shields.io/badge/tsql-black?style=for-the-badge&logo=microsoftsqlserver)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=microsoftsqlserver)
-![SSIS](https://img.shields.io/badge/SQL%20Server%20Integration%20Services-black?style=for-the-badge&logo=microsoftsqlserver)
-![SSIS](https://img.shields.io/badge/SQL%20Server%20Reporting%20Services-black?style=for-the-badge&logo=microsoftsqlserver)
-![SQLAgent](https://img.shields.io/badge/SQL%20Server%20Agent-black?style=for-the-badge&logo=microsoftsqlserver)
-![SSMS](https://img.shields.io/badge/SQL%20Server%20Managemnt%20Studio-black?style=for-the-badge&logo=microsoftsqlserver)
-![SqlProfiler](https://img.shields.io/badge/SQL%20Profiler-black?style=for-the-badge&logo=microsoftsqlserver)
+[![TSQL](https://img.shields.io/badge/tsql-black?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/mub3en)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/mub3en)
+[![SSIS](https://img.shields.io/badge/SQL%20Server%20Integration%20Services-black?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/mub3en)
+[![SSIS](https://img.shields.io/badge/SQL%20Server%20Reporting%20Services-black?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/mub3en)
+[![SQLAgent](https://img.shields.io/badge/SQL%20Server%20Agent-black?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/mub3en)
+[![SSMS](https://img.shields.io/badge/SQL%20Server%20Managemnt%20Studio-black?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/mub3en)
+[![SqlProfiler](https://img.shields.io/badge/SQL%20Profiler-black?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/mub3en)
 - Proficient in database administration tasks such as database installation, configuration, performance tuning, backup and recovery, and security management.<br>
 - Skilled in writing complex SQL queries, stored procedures, and triggers to extract, transform, and load data.   
 - Experience in database design principles, including normalization, indexing, and query optimization
@@ -68,10 +68,13 @@
 
 <br> </br>
 
-### OS Stack
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/mub3en)
+### OS and Tools
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows)](https://github.com/mub3en)
-[![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=macos)](https://github.com/mub3en)
+[![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=macOS)](https://github.com/mub3en)
+[![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice)](https://github.com/mub3en)
+[![SalesForce](https://img.shields.io/badge/SalesForce-black?style=for-the-badge&logo=salesforce)](https://github.com/mub3en)
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence)](https://github.com/mub3en)
+
 
 
 
