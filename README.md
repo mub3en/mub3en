@@ -22,7 +22,8 @@
 - Proficient in database administration tasks such as database installation, configuration, performance tuning, backup and recovery, and security management.<br>
 - Skilled in writing complex SQL queries, stored procedures, and triggers to extract, transform, and load data.   
 - Experience in database design principles, including normalization, indexing, and query optimization
-- Assited with Database migrations, Server migrations, Database engine upgrade/patching. 
+- Assisted with database migrations, server migrations, and database engine upgrades/patching.
+- Additionally, I have expertise in SQL Server Integration Services (SSIS), SQL Server Reporting Services (SSRS), and SQL Agent. These tools allow for seamless integration of data across different systems, generating comprehensive reports, and automating tasks through scheduling and job management. With my proficiency in these technologies, I can effectively utilize their capabilities to enhance data integration, reporting, and automation processes.
 <ul>
   <li>
     The MSSQL versions I have worked on: 
