@@ -29,7 +29,7 @@
     <details>
       <summary>Versions</summary>
       <ul>
-        <li>SQL Server 2008 SP1, SP2</li>
+        <li>SQL Server 2008</li>
         <li>SQL Server 2012</li>
         <li>SQL Server 2014</li>
         <li>SQL Server 2016</li>
