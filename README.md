@@ -44,14 +44,14 @@
 ### Cloud Stack
 [![Micorsoft Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoftazure)](https://github.com/mub3en/PowerShell-Automation-Tools/tree/master/Azure)
   - Worked with Azure SQL Databases, Azure SQL Managed Instances & Azure SQL VM
-  - Imported & Exported data using SSIS packages as well as Data-Tier
+  - Imported & Exported data using SSIS packages as well as Data-Tier.
   - Assisted with Migration to the cloud.
   - Leveraged Powershell for the automation.
     
 [![Amazon AWS](https://img.shields.io/badge/AWS-0078D6?style=for-the-badge&logo=amazonaws)](https://github.com/mub3en)
   - Deployed EC2 instnaces using Cloudformation templates.
   - Leveraged CLI for the automation.
-  - Deployed domians using Route 53
+  - Deployed domians using Route 53.
   - Used S3 buckets for large objects and archival data.
 
 <br> </br>
