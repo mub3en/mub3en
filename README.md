@@ -31,6 +31,7 @@
         <li>SQL Server 2012</li>
         <li>SQL Server 2014</li>
         <li>SQL Server 2016</li>
+        <li>SQL Server 2017</li>
         <li>SQL Server 2019</li>
       </ul>
     </details>
