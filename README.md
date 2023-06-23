@@ -52,7 +52,7 @@
   - Deployed domians using Route 53.
   - Used S3 buckets for large objects and archival data.
 
-<br> </br>
+<br></br>
 
 ### Programming Languages
 <!--- [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)](https://github.com/mub3en)) --->
