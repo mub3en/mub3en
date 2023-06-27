@@ -35,8 +35,6 @@
       </ul>
     </details>
 
-
-
 <br> </br>
 ### Cloud Stack
 [![Micorsoft Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoftazure)](https://github.com/mub3en/PowerShell-Automation-Tools/tree/master/Azure)
