@@ -1,9 +1,7 @@
 <h1 align="center">Hello!! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <i>
-    I have been working in the field of IT since 2016, assuming various roles and responsibilities. I began my career as a Technical Deployment Specialist and later transitioned into the role of a Database Administrator.<br>
-    </i><br>
+    <i>I have been working in the field of IT since 2016, assuming various roles and responsibilities. I began my career as a Technical Deployment Specialist and later transitioned into the role of a Database Administrator.<br></i><br>
     <a href="https://www.linkedin.com/in/hafizalimubeen">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
