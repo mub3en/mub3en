@@ -46,7 +46,6 @@
   - Leveraged CLI for the automation.
   - Deployed domians using Route 53.
   - Used S3 buckets for large objects and archival data.
-
 <br></br>
 
 ### Programming Languages
