@@ -57,7 +57,6 @@
 [![Java](https://img.shields.io/badge/java-9F1D20?style=for-the-badge&logo=oracle)](https://github.com/mub3en)
 [![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=dotnet)](https://github.com/mub3en)
 
-
 <br></br>
 
 ### OS and Tools
