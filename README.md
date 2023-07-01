@@ -58,7 +58,6 @@
 [![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=dotnet)](https://github.com/mub3en)
 
 <br></br>
-
 ### OS and Tools
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows)](https://github.com/mub3en)
 [![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=macOS)](https://github.com/mub3en)
