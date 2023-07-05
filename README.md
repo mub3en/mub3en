@@ -1,4 +1,9 @@
-<h1 align="center">Hello!! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hello!! 
+    <picture>
+      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+    </picture>
+</h1>
 
 <p align="center">
     <i>I have been working in the field of IT since 2016, assuming various roles and responsibilities. I began my career as a Technical Deployment Specialist and later transitioned into the role of a Database Administrator.<br></i><br>
