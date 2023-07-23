@@ -12,7 +12,7 @@
     </a>
 </p>
 
-### Professional Career as a DBA
+### Professional career as a DBA
 [![TSQL](https://img.shields.io/badge/tsql-black?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/mub3en)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/mub3en)
 [![SSIS](https://img.shields.io/badge/SQL%20Server%20Integration%20Services-black?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/mub3en)
