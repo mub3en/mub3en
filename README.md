@@ -73,13 +73,6 @@
 [![SalesForce](https://img.shields.io/badge/SalesForce-black?style=for-the-badge&logo=salesforce)](https://github.com/mub3en)
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence)](https://github.com/mub3en)
 
-
-
-
-
-
-
-
 <!--
 **mub3en/mub3en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
