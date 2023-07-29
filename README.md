@@ -12,10 +12,16 @@
     </a>
 </p>
 
-### Certifications
-[![Microsoft Certified: Azure Database Administrator Associate](https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Database%20Administrator%20Associate-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/mubeeen/credentials/3e034b26f1c3bd43)
+ <h2> Certification badge(s) </h2>
 
-### Professional career as a DBA
+<!-- <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> -->
+<!--[![Microsoft Certified: Azure Database Administrator Associate](https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Database%20Administrator%20Associate-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/mubeeen/credentials/3e034b26f1c3bd43)
+-->
+
+- Microsoft Certified: Azure Database Administrator Associate <img href="https://learn.microsoft.com/en-us/users/mubeeen/credentials/3e034b26f1c3bd43" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="50"> 
+
+<br> </br>
+<h2>Professional career as a DBA </h2>
 
 [![TSQL](https://img.shields.io/badge/tsql-black?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/mub3en)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/mub3en)
