@@ -62,6 +62,7 @@
 <br> </br>
 
 <h2>Cloud Stack</h2>
+
 [![Micorsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/mub3en/PowerShell-Automation-Tools/tree/master/Azure)
   - Worked with Azure SQL Databases, Azure SQL Managed Instances & Azure SQL VM
   - Imported & Exported data using SSIS packages as well as Data-Tier.
@@ -75,7 +76,8 @@
   - Used S3 buckets for large objects and archival data.
 <br></br>
 
-### Programming Languages
+<h2>Programming Languages</h2>
+
 <!--- [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)](https://github.com/mub3en)) --->
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=gnometerminal)](https://github.com/mub3en/PowerShell-Automation-Tools)
 [![TSQL](https://img.shields.io/badge/tsql-CC2927?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/mub3en/PowerShell-Automation-Tools/tree/master/SQL/src/Scripts/SP)
@@ -85,7 +87,9 @@
 [![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=dotnet)](https://github.com/mub3en)
 
 <br></br>
-### OS and Tools
+
+<h2>OS and Tools</h2>
+
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows)](https://github.com/mub3en)
 [![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=macOS)](https://github.com/mub3en)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice)](https://github.com/mub3en)
