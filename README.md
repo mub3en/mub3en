@@ -60,7 +60,8 @@
     </details>
 
 <br> </br>
-### Cloud Stack
+
+<h2>Cloud Stack</h2>
 [![Micorsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/mub3en/PowerShell-Automation-Tools/tree/master/Azure)
   - Worked with Azure SQL Databases, Azure SQL Managed Instances & Azure SQL VM
   - Imported & Exported data using SSIS packages as well as Data-Tier.
