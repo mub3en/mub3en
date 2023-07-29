@@ -12,7 +12,11 @@
     </a>
 </p>
 
+### Certifications
+[![Microsoft Certified: Azure Database Administrator Associate](https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Database%20Administrator%20Associate-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/mubeeen/credentials/3e034b26f1c3bd43)
+
 ### Professional career as a DBA
+
 [![TSQL](https://img.shields.io/badge/tsql-black?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/mub3en)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/mub3en)
 [![SSIS](https://img.shields.io/badge/SQL%20Server%20Integration%20Services-black?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/mub3en)
