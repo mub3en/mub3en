@@ -18,7 +18,9 @@
 <!--[![Microsoft Certified: Azure Database Administrator Associate](https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Database%20Administrator%20Associate-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/mubeeen/credentials/3e034b26f1c3bd43)
 -->
 
-- Microsoft Certified: Azure Database Administrator Associate <img href="https://learn.microsoft.com/en-us/users/mubeeen/credentials/3e034b26f1c3bd43" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="50"> 
+- Microsoft Certified: Azure Database Administrator Associate <a href="https://learn.microsoft.com/en-us/users/mubeeen/credentials/3e034b26f1c3bd43" target="_blank">
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="50">
+</a>
 
 <br> </br>
 <h2>Professional career as a DBA </h2>
