@@ -20,7 +20,7 @@
 
 <ul>
     <li style="display: flex; align-items: center;">
-        Microsoft Certified: Azure Database Administrator Associate 
+        Microsoft Certified: Azure Database Administrator 
         <a href="https://learn.microsoft.com/en-us/users/mubeeen/credentials/3e034b26f1c3bd43" target="_blank" style="margin-left: 10px;">
           <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="60">
         </a>
