@@ -20,6 +20,12 @@
 
 <ul>
     <li style="display: flex; align-items: center;">
+        Microsoft Certified: Azure Fundamentals
+        <a href="https://learn.microsoft.com/en-us/users/mubeeen/credentials/dff9853b1444e3c9" target="_blank" style="margin-left: 5px;">
+          <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="50">
+        </a>
+    </li>
+    <li style="display: flex; align-items: center;">
         Microsoft Certified: Azure Database Administrator 
         <a href="https://learn.microsoft.com/en-us/users/mubeeen/credentials/3e034b26f1c3bd43" target="_blank" style="margin-left: 5px;">
           <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="50">
