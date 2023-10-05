@@ -7,8 +7,8 @@
 
 <p align="center">
     <i>I have been working in the field of IT since 2016, assuming various roles and responsibilities. I began my career as a Technical Deployment Specialist and later transitioned into the role of a Database Administrator.<br></i><br>
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
+      <!--  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">-->
+    
 </p>
 
  <h2> Certification badge(s) </h2>
