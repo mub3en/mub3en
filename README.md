@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 
+he<h1 align="center">Hello! 
     <picture>
       <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
       <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
@@ -47,8 +47,8 @@
 - Skilled in writing complex SQL queries, stored procedures, and triggers to extract, transform, and load data.   
 - Experience in database design principles, including normalization, indexing, and query optimization
 - Assisted with database migrations, server migrations, and database engine upgrades/patching.
-- Proficient in Virtualization and Domain Controller administration.
-- Experienced in implementing High Availability and Disaster Recovery (HA/DR) solutions for ensuring business continuity and data protection.
+<!-- - Proficient in Virtualization and Domain Controller administration. -->
+<!--- Experienced in implementing High Availability and Disaster Recovery (HA/DR) solutions for ensuring business continuity and data protection. -->
 - Additionally, I have expertise in SQL Server Integration Services (SSIS), SQL Server Reporting Services (SSRS), and SQL Agent. These tools allow for seamless integration of data across different systems, generating comprehensive reports, and automating tasks through scheduling and job management. With my proficiency in these technologies, I can effectively utilize their capabilities to enhance data integration, reporting, and automation processes.
 - Here are the MSSQL versions I have hands-on experience with:
     <details>
